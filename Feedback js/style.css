@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+}
+body{
+    background-image: url("img/mustang.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+header{
+    text-align: center;
+    color: white;
+    background-color: #008cba;
+    text-decoration: none;
+    padding: 0.8%;
+    font-family: 'Ford', sans-serif;
+}
+
+#Container img{
+    align-content: center;
+    margin: 0.5%;
+    margin-bottom: 1%;
+    padding: 2%;
+}
+
+#Container h2{
+    margin: 2rem ;
+    margin-top: 0.8rem;
+    /* color: White; */
+    font-weight: 800;
+    font-family: 'Ford', sans-serif;
+    margin-bottom: 0;
+}
+
+#Container h3{
+    font-family: 'Ford', sans-serif;
+    color: black;
+
+}
+
+#Container{
+    border: black solid 4px;
+    padding: 5%;
+    padding-top: 0;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: rgba(247, 239, 239,0.5);
+    /* opacity: 0.5; */
+    /* filter: blur(8px); */
+}
+
+button{
+    height: 100px;
+    margin-top: 5rem;
+}
+
+#Cname{
+    color: black;
+}

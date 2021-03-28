@@ -1,0 +1,57 @@
+*{
+    margin: 1.5rem;
+    
+}
+
+/* body{
+    background-color: rgb(221, 193, 157);
+} */
+
+
+header{
+    background-color: aqua;
+    text-align: center;
+    margin: auto;
+}
+body{
+    background-color: #eabf9f;
+}
+
+svg{
+    height: 100px;
+    color: rgb(80, 79, 79);
+    padding: 0.5rem;
+    padding-bottom: 0;
+    text-align: center;
+}
+
+#Quote{
+    font-size: 1.5em;
+    text-align: auto;
+    /* padding: 0.5rem; */
+    /* margin-top: 10rem; */
+}
+
+#Author {
+    color: #383e56;
+    text-align: right;
+    margin-right: 10rem;
+}
+  
+
+.generateBtn{
+    align-items: center;
+    /* position: fixed; */
+    /* height: 40px;
+    width: 150px; */
+    font-size: 1.5rem;
+    /* padding-right: 0.20rem; */
+    padding-left: 20rem;
+    margin-top: 1.5rem;
+    background-color:cadetblue;
+    padding: 2px;
+}
+
+.Container{
+    background-color: antiquewhite;
+}
